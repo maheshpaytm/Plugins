@@ -1,0 +1,58 @@
+{
+  "name": "cordova-plugin-android-idfa",
+  "version": "1.0.5",
+  "description": "Cordova Advertising ID (IDFA) Plugin for Android using Google Play Services API",
+  "cordova": {
+    "id": "cordova-plugin-android-idfa",
+    "platforms": [
+      "android",
+      "browser"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/praves77/cordova-plugin-android-idfa.git"
+  },
+  "dependencies": {
+    "com.google.play.services": "*"
+  },
+  "keywords": [
+    "cordova",
+    "idfa",
+    "google",
+    "google play",
+    "advertising id",
+    "idfa for android",
+    "cordova plugin",
+    "advertiserId",
+    "advertisingId for android",
+    "advertising id for android",
+    "advertising id for android using google play",
+    "advertising id for android using google play services",
+    "android",
+    "download",
+    "install",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": {
+    "name": "praves",
+    "email": "praves.dev@outlook.com"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/praves77/cordova-plugin-android-idfa/LICENSE.md"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/praves77/cordova-plugin-android-idfa/issues"
+  },
+  "homepage": "https://github.com/praves77/cordova-plugin-android-idfa#readme"
+}
